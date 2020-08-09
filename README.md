@@ -17,5 +17,7 @@ Task
 
 This is a ruby program which when executed prints the score of https://github.com/dhh . The answer printed on the terminal will be like this.
 
+
+
 $ ruby exercise.rb
 DHH's github score is xxx
